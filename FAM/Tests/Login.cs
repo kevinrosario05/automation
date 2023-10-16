@@ -1,4 +1,4 @@
-﻿using ACardWeb.Keywords;
+﻿using FAM.KeyWords;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ACardWeb.Tests
+namespace FAM.Tests
 {
     [TestClass]
     public class Login : BrowserDriver.DriverHelper

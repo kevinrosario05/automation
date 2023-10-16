@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BrowserDriver;
-using ACardWeb.ObjectRepository;
+using FAM.ObjectRepository;
 
-namespace ACardWeb.Keywords
+namespace FAM.KeyWords
 {
     public class LoginMethods
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ACardWeb.ObjectRepository
+namespace FAM.ObjectRepository
 {
     public class LoginObjects
     {

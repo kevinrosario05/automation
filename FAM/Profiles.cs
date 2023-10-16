@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ACardWeb
+namespace FAM
 {
     public class Profiles
     {
